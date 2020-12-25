@@ -4,23 +4,13 @@ Movies API
 
 <p align="center">API simples feita para armazenar e ler dados de filmes, tais como nome, descrição, ano de duração e mais.</p>
 
-<div>
-  <img src="cover.png" alt="marvel-heroes-app">
-</div>
-
 # 📋 Índice
 
-- [Telas](#-Telas)
 - [Sobre o projeto](#-Sobre-o-projeto)
 - [Tecnologias utilizadas](#-Tecnologias-utilizadas)
 - [Rodando o projeto](#-Rodando-o-projeto)
   - [Pré-requisitos](#-Pré-requisitos)
   - [Rodando o server](#-Rodando-o-server)
-  - [Rodando o aplicativo mobile](#-Rodando-o-aplicativo-mobile)
-
-## 🎨 Telas
-
-<img src="marvel-heroes-app.gif" alt="marvel-heroes-app">
 
 ## 📃 Sobre o projeto
 
