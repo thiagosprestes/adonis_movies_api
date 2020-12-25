@@ -16,7 +16,7 @@ Movies API
 
 Desenvolvida utilizando a versão 5 do orm Adonis, utilizando typescript e conceitos RESTful. a API conta com autenticação e proteção da rotas com a utilização de token.
 
-<a href="https://raw.githubusercontent.com/thiagosprestes/adonis_movies_api/master/adonis_movies_api_endpoints.json" download style={text-align: center}>Endpoints da API no insomnia</a>
+<a align="center" href="https://raw.githubusercontent.com/thiagosprestes/adonis_movies_api/master/adonis_movies_api_endpoints.json" download>Endpoints da API no insomnia</a>
 
 ## 🛠 Tecnologias utilizadas
 
